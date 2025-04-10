@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EKomin220
-- 🌱 I’m currently learning JavaScript (beginner)
+- 🌱 I’m currently learning HTML, CSS and JavaScript (beginner)
 - 😄 Pronouns: She/Her
 - 🇨🇿/🇬🇧
 
